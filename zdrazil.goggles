@@ -11,10 +11,10 @@ $discard
 
 $boost=3,site=blog.danielna.com
 /slack-is-not-a-dirty-word-how-slack-can-improve-your-products/$boost=3,site=everydaykanban.com
-$boost=3,site:browserbench.org
-$boost=3,site:festivus.dev
-$boost=3,site:grugbrain.dev
-$boost=3,site:jvns.ca
-$boost=3,site:lihautan.com
-$boost=3,site:alexwlchan.net
-$boost=3,site:amir.rachum.com
+$boost=3,site=browserbench.org
+$boost=3,site=festivus.dev
+$boost=3,site=grugbrain.dev
+$boost=3,site=jvns.ca
+$boost=3,site=lihautan.com
+$boost=3,site=alexwlchan.net
+$boost=3,site=amir.rachum.com
