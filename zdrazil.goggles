@@ -11,3 +11,4 @@ $discard
 
 $boost=3,site=blog.danielna.com
 /slack-is-not-a-dirty-word-how-slack-can-improve-your-products/$boost=3,site=everydaykanban.com
+$boost=3,site:browserbench.org
