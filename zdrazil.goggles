@@ -17,5 +17,17 @@ $boost=3,site=jvns.ca
 $boost=3,site=lihautan.com
 $boost=3,site=alexwlchan.net
 $boost=3,site=amir.rachum.com
+$boost=3,site=hamberg.no
+$boost=3,site=gettingthingsdone.com
+$boost=3,site=keyvanakbary.github.io
+$boost=3,site=xuanji.appspot.com
+$boost=3,site=git-scm.com
+$boost=3,site=gcanti.github.io
+/tips-from-a-philosophy-of-software-design/$boost=3,site=atjiang.com
 
 /slack-is-not-a-dirty-word-how-slack-can-improve-your-products/$boost=3,site=everydaykanban.com
+clojure/c/PCKzXweeDeY/$boost=3,site=groups.google.com
+
+/r/typescript/comments/ii88m3/maybestring_vs_string_null/g35dsms/$boost=3,site=reddit.com
+/r/reasonml/comments/fh3sq1/why_use_somea_rather_than_a/fk8rzg6/$boost=3,site=reddit.com
+bradzacher/status/1478893144775139329/$boost=3,site=twitter.com
