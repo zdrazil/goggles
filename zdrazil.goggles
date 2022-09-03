@@ -75,6 +75,7 @@ $boost=3,site=cognitect.com
 $boost=3,site=vimcasts.org
 $boost=3,site=frontendmasters.com
 $boost=3,site=johnresig.com
+$boost=3,site=exploringjs.com
 
 $boost=2,site=news.ycombinator.com
 $boost=3,site=reddit.com
