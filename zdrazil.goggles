@@ -9,4 +9,4 @@
 $discard
 
 $boost=3,site=blog.danielna.com
-$boost=3,|http://www.everydaykanban.com/2012/07/27/slack-is-not-a-dirty-word-how-slack-can-improve-your-products/|
+/slack-is-not-a-dirty-word-how-slack-can-improve-your-products/$boost=3,site=everydaykanban.com
