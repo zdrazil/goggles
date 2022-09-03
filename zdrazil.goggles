@@ -51,6 +51,7 @@ $boost=3,site=reddit.com
 /tips-from-a-philosophy-of-software-design/$boost=3,site=atjiang.com
 bradzacher/status/1478893144775139329/$boost=3,site=twitter.com
 clojure/c/PCKzXweeDeY/$boost=3,site=groups.google.com
+/clarityhub/low-coupling-high-cohesion-3610e35ac4a6/$boost=3,site=medium.com
 
 ! Games
 $boost=3,site=adventuregamers.com
