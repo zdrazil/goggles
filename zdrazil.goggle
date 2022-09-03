@@ -1,0 +1,11 @@
+! name: Zdrazil
+! description: Personal Goggles
+! public: false
+! author: zdrazil
+
+! Docs: https://github.com/brave/goggles-quickstart
+
+! Remove results not matching any other rule
+$discard
+
+$boost=3,site=blog.danielna.com
