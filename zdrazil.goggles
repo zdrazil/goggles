@@ -4,6 +4,7 @@
 ! author: zdrazil
 
 ! Docs: https://github.com/brave/goggles-quickstart
+! To update the google, resubmit it: https://search.brave.com/goggles/create
 
 ! Remove results not matching any other rule
 $discard
