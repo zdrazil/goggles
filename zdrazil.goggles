@@ -39,6 +39,9 @@ $boost=3,site=pragdave.me
 $boost=3,site=rpeszek.github.io
 $boost=3,site=wiki.c2.com
 $boost=3,site=xuanji.appspot.com
+$boost=3,site=bartoszmilewski.com
+$boost=3,site=wiki.haskell.org
+$boost=3,site=purescript.org
 
 $boost=2,site=news.ycombinator.com
 $boost=3,site=reddit.com
@@ -49,8 +52,8 @@ $boost=3,site=reddit.com
 /r/typescript/comments/ii88m3/maybestring_vs_string_null/g35dsms/$boost=3,site=reddit.com
 /slack-is-not-a-dirty-word-how-slack-can-improve-your-products/$boost=3,site=everydaykanban.com
 /tips-from-a-philosophy-of-software-design/$boost=3,site=atjiang.com
-bradzacher/status/1478893144775139329/$boost=3,site=twitter.com
-clojure/c/PCKzXweeDeY/$boost=3,site=groups.google.com
+/bradzacher/status/1478893144775139329/$boost=3,site=twitter.com
+/clojure/c/PCKzXweeDeY/$boost=3,site=groups.google.com
 /clarityhub/low-coupling-high-cohesion-3610e35ac4a6/$boost=3,site=medium.com
 
 ! Games
@@ -65,3 +68,41 @@ $boost=3,site=vortex.cz
 $boost=3,site=fffilm.name
 $boost=3,site=moviezone.cz
 $boost=3,site=tvzone.cz
+
+
+! twitter
+
+/_adamwiggins_/$boost=3,site=twitter.com
+/adriancolyer/$boost=3,site=twitter.com
+/BartoszMilewski/$boost=3,site=twitter.com
+/dalepd/$boost=3,site=twitter.com
+/dizzyup/$boost=3,site=twitter.com
+/drboolean/$boost=3,site=twitter.com
+/EckhartTolle/$boost=3,site=twitter.com
+/erictfree/$boost=3,site=twitter.com
+/fogus/$boost=3,site=twitter.com
+/grumpygamer/$boost=3,site=twitter.com
+/ID_AA_Carmack/$boost=3,site=twitter.com
+/igrigorik/$boost=3,site=twitter.com
+/imfcz/$boost=3,site=twitter.com
+/jeresig/$boost=3,site=twitter.com
+/jezhumble/$boost=3,site=twitter.com
+/kale/$boost=3,site=twitter.com
+/lexfridman/$boost=3,site=twitter.com
+/martinfowler/$boost=3,site=twitter.com
+/martinfowler/$boost=3,site=twitter.com
+/matthewseiji/$boost=3,site=twitter.com
+/mfeathers/$boost=3,site=twitter.com
+/nelstrom/$boost=3,site=twitter.com
+/nonrecursive/$boost=3,site=twitter.com
+/pidjin/$boost=3,site=twitter.com
+/ploeh/$boost=3,site=twitter.com
+/pragdave/$boost=3,site=twitter.com
+/PragmaticAndy/$boost=3,site=twitter.com
+/rauschma/$boost=3,site=twitter.com
+/rob_pike/$boost=3,site=twitter.com
+/RobertGreene/$boost=3,site=twitter.com
+/ScottWlaschin/$boost=3,site=twitter.com
+/skrug/$boost=3,site=twitter.com
+/stuarthalloway/$boost=3,site=twitter.com
+/tpope/$boost=3,site=twitter.com
